@@ -12,7 +12,7 @@
         android:theme="@style/Theme.CibertecApp"
         tools:targetApi="31">
         <activity
-            android:name=".notas.NoteActivity"
+            android:name=".sensores.SensoresActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
